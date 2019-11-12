@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jf</folder>
+	<filename>140.jpg</filename>
+	<path>C:\Users\crist\Downloads\Husky\jf\140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>215</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>husky</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>6</ymin>
+			<xmax>201</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

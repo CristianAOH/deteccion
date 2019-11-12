@@ -3,9 +3,3 @@ item {
   name: 'husky'
 }
 
-item {
-  id: 2
-  name: 'chihuahua'
-}
-
-
