@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>images - 2019-11-01T151028.248.jpg</filename>
+	<path>C:\Users\rache\Desktop\ING.SISTEMAS\NOVENO\INTELIGENCIA ARTIFICIAL\Images\images - 2019-11-01T151028.248.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuahua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>11</ymin>
+			<xmax>203</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

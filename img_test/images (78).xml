@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>images (78).jpg</filename>
+	<path>C:\Users\rache\Desktop\ING.SISTEMAS\NOVENO\INTELIGENCIA ARTIFICIAL\Images\images (78).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>213</width>
+		<height>237</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuahua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>2</ymin>
+			<xmax>188</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

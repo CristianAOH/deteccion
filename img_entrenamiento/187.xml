@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Husky</folder>
+	<filename>187.jpg</filename>
+	<path>C:\Users\crist\Downloads\Husky\187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>740</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>husky</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>42</ymin>
+			<xmax>594</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+</annotation>

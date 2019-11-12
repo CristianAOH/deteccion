@@ -1,0 +1,26 @@
+<annotation>
+	<folder>80</folder>
+	<filename>D_NQ_NP_761557-MLM32022938279_082019-V.jpg</filename>
+	<path>C:\Users\crist\OneDrive\Escritorio\Images\80\D_NQ_NP_761557-MLM32022938279_082019-V.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>313</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuahua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>16</ymin>
+			<xmax>298</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
